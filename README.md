@@ -1,15 +1,15 @@
-<img align="right" src="https://media.giphy.com/media/X3Gb6WWZOvT16/giphy.gif" width="130" alt="Asuka">
-
 <div align="center">
-
-# 弐号機 (EVA-02) 🔴
-**`Software Engineer`** | **`Full-Stack Developer`**
-<br>
-*Creating fun projects and occasionally useful tools.*
-
+  
+  # 弐号機 (EVA-02) 🔴
+  
+  **`Software Engineer`** | **`Full-Stack Developer`**
+  
+  *Creating fun projects and occasionally useful tools.*
 </div>
 
 ---
+
+<img align="right" src="https://media.tenor.com/Z4w0-w2qN5MAAAAC/asuka-evangelion.gif" width="200" alt="Asuka EVA-02">
 
 ### > Languages
 
