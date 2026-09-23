@@ -1,6 +1,6 @@
 <div align="center">
   
-  # ユニット 02 (Unit 02) 🔴
+  # 弐号機 (EVA-02) 🔴
   
   **`Software Engineer`** | **`Systems & Backend`**
   
