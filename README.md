@@ -2,7 +2,7 @@
   
   # 弐号機 (EVA-02) 🔴
   
-  **`Software Engineer`** | **`Systems & Backend`**
+  **`Software Engineer`** | **`Full-Stack Developer`**
   
   *Building clean, reliable, and scalable software.*
 </div>
