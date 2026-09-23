@@ -1,7 +1,9 @@
 <div align="center">
 
 # 弐号機 (EVA-02) 🔴
+
 **`Software Engineer`** | **`Full-Stack Developer`**
+<br>
 *Creating fun projects and occasionally useful tools.*
 
 </div>
@@ -24,20 +26,12 @@
 
 > **`[ F R O N T - E N D ]`**<br>
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B7?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/-CSS-1572B7?style=for-the-badge&logo=css3&logoColor=white)
 
 > **`[ I N F R A S T R U C T U R E ]`**<br>
 ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub_Pages-327FC7?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### > TELEMETRY
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N4SSDev&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9" alt="EVA-02 Telemetry" />
-</div>
 
 ---
 
