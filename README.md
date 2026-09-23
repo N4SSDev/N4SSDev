@@ -11,7 +11,7 @@
 
 ### > Languages
 
-<img align="right" src="https://github.com/user-attachments/assets/a2b92197-5f39-4578-a17a-c971ae3ae138" width="300" alt="Asuka EVA-02">
+<img align="right" src="https://github.com/user-attachments/assets/a2b92197-5f39-4578-a17a-c971ae3ae138" width="250" alt="Asuka EVA-02">
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
