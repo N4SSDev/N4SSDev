@@ -18,6 +18,6 @@
 
 ### 📊 Activity & Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N4SSDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=N4SSDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="N4SSDev Stats" />
+</p>
