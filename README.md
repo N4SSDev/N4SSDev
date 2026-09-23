@@ -4,7 +4,7 @@
   
   **`Software Engineer`** | **`Full-Stack Developer`**
   
-  *Building clean, reliable, and scalable software.*
+  *"Creating fun projects and occasionally useful tools.*
 </div>
 
 ---
