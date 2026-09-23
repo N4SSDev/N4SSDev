@@ -4,7 +4,7 @@
   
   **`Software Engineer`** | **`Full-Stack Developer`**
   
-  *"Creating fun projects and occasionally useful tools.*
+  *Creating fun projects and occasionally useful tools.*
 </div>
 
 ---
