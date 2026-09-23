@@ -1,12 +1,15 @@
-<div align="center">
-
-# 弐号機 (EVA-02) 🔴
-
-**`Software Engineer`** | **`Full-Stack Developer`**
-<br>
-*Creating fun projects and occasionally useful tools.*
-
-</div>
+<table align="center">
+  <tr>
+    <td align="left">
+      # 弐号機 (EVA-02) 🔴<br>
+      **Software Engineer | Full-Stack Developer**<br>
+      *Creating fun projects and occasionally useful tools.*
+    </td>
+    <td align="right">
+      <img src="https://media.giphy.com/media/P10X270j2389q/giphy.gif" alt="Asuka Langley" height="150" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -27,7 +30,7 @@
 > **`[ F R O N T - E N D ]`**<br>
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/-CSS-1572B7?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B7?style=for-the-badge)
 
 > **`[ I N F R A S T R U C T U R E ]`**<br>
 ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
