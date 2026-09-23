@@ -9,7 +9,7 @@
 
 ---
 
-<img align="right" src="https://media.tenor.com/TJqxeKNqVXEAAAAC/evangelion-asuka.gif" width="180" alt="Asuka EVA-02">
+<img align="right" src="https://github.com/user-attachments/assets/a2b92197-5f39-4578-a17a-c971ae3ae138" width="220" alt="Asuka EVA-02">
 
 ### > Languages
 
