@@ -1,21 +1,22 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29lOGw1eGMyNnp5bTN5ZmQwYmRxcGpqbXR4ZGNyZTN2MnMybWx4eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HBDT4QSTpveU/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" />
   
   # ユニット 02 (Unit 02) 🔴
   
-  **`Terminal Dweller`** | **`Organic Code`** | **`No Design Docs`**
+  **`AI-Driven Developer`** | **`Prompt Architect`** | **`Full-Stack`**
   
-  *( ˘▽˘)っ♨️ Writing code by instinct, debugging by feel.*
+  *( ˘▽˘)っ♨️ Translating thoughts into code with Claude.*
 </div>
 
 ---
 
-### 🛠️ Arsenal
+### 🛠️ Arsenal & Stack
 
+![Claude](https://img.shields.io/badge/-Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 📊 Sync Ratio
 
@@ -24,5 +25,5 @@
 </div>
 
 <div align="center">
-  <i>"I use Arch, btw."</i> 🐧
+  <i>"Powered by AI and pure instinct."</i> ✨
 </div>
