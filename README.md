@@ -1,14 +1,3 @@
-<div align="center">
-  
-  # 弐号機 (EVA-02) 🔴
-  
-  **`Software Engineer`** | **`Full-Stack Developer`**
-  
-  *Creating fun projects and occasionally useful tools.*
-</div>
-
----
-
 <img align="right" src="https://github.com/user-attachments/assets/a2b92197-5f39-4578-a17a-c971ae3ae138" width="280" alt="Asuka EVA-02">
 
 ### > Languages
@@ -20,8 +9,8 @@
 
 ### > Front-End Development
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B7?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B7?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 <br>
 
